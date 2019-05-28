@@ -6,4 +6,9 @@ Este he um repositorio para ensinar o git.i
 
 tentando aprender
 
+
 Saiba mais no link [willianjustin.com.br](http://willianjusten.com.br)
+
+
+gostou do curso quer mais,
+vai estudar
